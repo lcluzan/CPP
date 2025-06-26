@@ -1,0 +1,7 @@
+Hello world!
+This is a test file.
+We will replace some words in this file.
+Hello again! Hello there!
+This line has multiple hello instances: hello hello hello.
+Some lines might not have any replaceable words.
+The end.
